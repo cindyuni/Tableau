@@ -12,8 +12,7 @@ This project was completed as part of the [**Fundamentals of Visualization with 
 - **Tool**: Tableau Public
 - **Focus**: Visualizing accident trends, identifying common incident types, and highlighting safety patterns over time.
 - **Status**: In progress
-- **Original data source**: [Makeover Monday -2018/W51: London Bus Safety Performance]([https://www.makeovermonday.co.uk/data/](https://data.world/makeovermonday/2018w51))
-
+- **Original data source**: [Makeover Monday -2018/W51: London Bus Safety Performance](https://data.world/makeovermonday/2018w51)
 > This project is part of my hands-on practice to improve skills in working with time-series data, building interactive dashboards, and presenting safety-related metrics clearly and effectively.
 
 ## 🚧 More Projects Coming Soon
@@ -22,9 +21,4 @@ This space will grow as I continue experimenting with new datasets and ideas usi
 ## 🛠 Tools Used
 - Tableau Public
 - Git / GitHub (for version control and documentation)
-
-## 📫 Contact
-Feel free to reach out if you'd like to collaborate or share feedback!
-
----
 
