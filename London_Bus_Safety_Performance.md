@@ -13,7 +13,7 @@ This project was completed as part of the [**Fundamentals of Visualization with 
 
 ### 🔗 Live Dashboard   👉 [View on Tableau Public](https://public.tableau.com/app/profile/chih.chun.chan/viz/TFLBusSafety_17478717214220/DashboardforLondonBusSafety?publish=yes)  
 
----
+
 
 ### 👁️‍🗨️ Dashboard Preview
 
@@ -23,7 +23,7 @@ This project was completed as part of the [**Fundamentals of Visualization with 
 
 ### 🧾 Project Summary
 
-- **Dataset**: `TFL Bus Safety.xlsx` from Makeover Monday – Week 30, 2019  
+- **Dataset**: `TFL Bus Safety.xlsx` from Makeover Monday
 - **Goal**: Analyze the frequency and types of bus-related incidents in London  
 - **Key Visuals**:
   - Top boroughs by number of incidents
