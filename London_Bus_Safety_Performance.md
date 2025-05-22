@@ -11,9 +11,7 @@ This project was completed as part of the [**Fundamentals of Visualization with 
 > This project is part of my hands-on practice to improve skills in working with time-series data, building interactive dashboards, and presenting safety-related metrics clearly and effectively.
 ---
 
-### 🔗 Live Dashboard   👉 [View on Tableau Public](https://public.tableau.com/app/profile/chih.chun.chan/viz/TFLBusSafety_17478717214220/DashboardforLondonBusSafety?publish=yes)  
-
-
+### 🔗 Live Dashboard   👉 [View on Tableau Public](https://public.tableau.com/app/profile/chih.chun.chan/viz/TFLBusSafety_17478717214220/DashboardofTFLBusSafety?publish=yes)
 
 ### 👁️‍🗨️ Dashboard Preview
 
